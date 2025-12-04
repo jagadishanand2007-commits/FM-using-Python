@@ -59,11 +59,13 @@ plt.show()
 
 
 Output Waveform
+
 ![WhatsApp Image 2025-10-30 at 08 25 49_d1ae7f70](https://github.com/user-attachments/assets/84d2da1b-f54e-475d-ac9c-d79fc13c4396)
 
 
 
 Tabular Column
+
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/eaa40663-ac3f-4da6-9a7b-ac66c83fd778" />
 
 
